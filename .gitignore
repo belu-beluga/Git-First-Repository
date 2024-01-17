@@ -1,1 +1,6 @@
-mylogs.log
+# mylogs.log for all files whose name are mylogs.log
+# *.log for all files with extemsion .log
+*.cpp
+*.log
+# ignore/ for ingnorance of particular folder
+/ignore
