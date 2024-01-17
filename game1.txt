@@ -1,1 +1,1 @@
-Game 1 this is file 
+Game 1 this is new file of git 
