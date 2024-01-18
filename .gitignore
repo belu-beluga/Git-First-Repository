@@ -4,3 +4,5 @@
 *.log
 # ignore/ for ingnorance of particular folder
 /ignore
+*.py
+.vscode
